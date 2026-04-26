@@ -1,0 +1,12 @@
+{
+  "name": "m3u8-to-mpd-server",
+  "version": "1.0.0",
+  "description": "Convert M3U8 to MPD (2 min buffer)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
